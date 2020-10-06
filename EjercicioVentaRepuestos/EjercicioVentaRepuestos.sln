@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioVentaRepuestos", "EjercicioVentaRepuestos.csproj", "{D90FD29F-277A-4977-8E66-18470F974ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaNegocio", "..\LibreriaNegocio\LibreriaNegocio.csproj", "{CC48656D-32B8-4D99-AB09-C9FF8CE42960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90FD29F-277A-4977-8E66-18470F974ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90FD29F-277A-4977-8E66-18470F974ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90FD29F-277A-4977-8E66-18470F974ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90FD29F-277A-4977-8E66-18470F974ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC48656D-32B8-4D99-AB09-C9FF8CE42960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC48656D-32B8-4D99-AB09-C9FF8CE42960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC48656D-32B8-4D99-AB09-C9FF8CE42960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC48656D-32B8-4D99-AB09-C9FF8CE42960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBF846C-74A1-40CE-9CCA-5C3FBC9EA57D}
+	EndGlobalSection
+EndGlobal
