@@ -1,0 +1,6 @@
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\obj\Debug\LibreriaNegocio.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\obj\Debug\LibreriaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\bin\Debug\LibreriaNegocio.dll
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\bin\Debug\LibreriaNegocio.pdb
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\obj\Debug\LibreriaNegocio.dll
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioVentaRepuestos\LibreriaNegocio\obj\Debug\LibreriaNegocio.pdb

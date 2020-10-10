@@ -42,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Categoria.cs" />
+    <Compile Include="CategoriaExistenteException.cs" />
+    <Compile Include="CategoriaHelper.cs" />
+    <Compile Include="CodigoExistenteException.cs" />
     <Compile Include="Repuesto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepuestoExistenteException.cs" />
+    <Compile Include="StockNegativoException.cs" />
     <Compile Include="VentaRepuesto.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
